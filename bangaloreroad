@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+ 	<meta name="viewport" content="width=device-width, initial-scale=1">
+  	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile.structure-1.4.5.min.css" />
+ 	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+  	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="./css/mystyle.css" />
+
+	
+</head>
+<body >
+ 
+
+	<div data-url="panel-fixed-page1" data-role="page" data-theme="b"  id="panel-fixed_page1" data-title="panel fixed positioning">
+		<div data-role="header" data-position="fixed" data-theme="a" style="background-color:#f2784b;border:#f2784b;height:44px;" >
+			<a href="./" data-show="false" data-iconshadow="false" data-icon="carat-l" ui-btn-icon-left" data-iconpos="notext" data-rel="back" data-ajax="false" style="background-color:#f2784b;border:#f2784b;">Back</a>
+			<h1>By Road</h1>
+			
+			
+			
+		</div>
+
+	<div data-role="main" data-theme="b" class="ui-content my-page jqm-content jqm-fullwidth">
+
+	
+
+		<div id="road">
+			<img src="./images/mulayanagiri/m2.jpg" alt="karnatalka" style="width:340px;height:210px;">
+			<p>This beautiful hill station is well connected to the towns like Koppa, Sringeri; Kadur & Birur by road. There are two National Highways that pass through the district of Chikmagalur. Belur is 25 kilometers, Mudigere is 29 kilometers and Arehalli is almost 41 kilometers far from Chikmagalur.</p>
+		<br>
+		<h3>Distance Charts to Chikkamagalure</h3>
+		<p><strong>Bangalore to Chikkamagalure </strong> 4 hours 16 mins 244 km</p>
+		<p><strong>Hubli to Chikkamagalure </strong> 5 hours 15 mins 292 km</p>
+		<p><strong>Mangalore to Chikkamagalure </strong> 3 hours 11 mins 150 km</p>
+		<p><strong>Coorg to Chikkamagalure </strong> 2 hours 55 mins 147 km</pre>
+		<p><strong>Dharmasthala to Chikkamagalure </strong> 2 hours 3 mins 93.1 km</p>
+
+
+
+		</div>
+  
+	</div>
+	<div data-role="footer" data-position="fixed">
+	</div>
+	
+	
+
+
+  	
+  	
+
+  	
+</div>
+
+</body>
+</html>
