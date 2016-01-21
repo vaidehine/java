@@ -1,0 +1,58 @@
+
+body {
+	background-color:#261e1a;
+	text-align:justify;
+	font-family: "Open Sans",Arial,Helvetica,sans-serif;
+	
+}
+
+.content{
+	text-align:justify;
+}
+
+
+
+#search-basic {
+	background-color:white;
+	border:#854229;
+	text-color:black;
+	font-family: "Open Sans",Arial,Helvetica,sans-serif;
+	
+}
+
+
+
+
+
+#nav-panel{
+	background-color:#b00040;
+	border:#f65459;
+	ext-color:#000000;
+	
+}
+
+
+
+#menu {
+	background-color:#261e1a;
+	border:#261e1a;
+	text-color:#ffffff;
+	
+}
+
+.ui-li-thumb {
+	height:200px;
+	width:200px;
+	background-size:contain;
+	border-radius:50px;
+	
+}
+
+.my-page {
+
+	border-radius:50px;
+	
+
+}
+
+
